@@ -1,9 +1,9 @@
 # cutprice
 
-its a simple demo that I used to learn vuejs
+its a simple demo that I used to learn vuejs<br/>
 I used vue-cli to generate this demo and add Weui and zepto library to it
 
-the demo is aimed to  get user's selected commodity data and add it to url
+the demo is aimed to  get user's selected commodity data and add it to url<br/>
 after the user share this link,his friend can  help him to cut down price
 
 the demo don't show any operation related to backstage database,because its different to circumstance 
