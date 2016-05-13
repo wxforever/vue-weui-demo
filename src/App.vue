@@ -2,7 +2,7 @@
   
 
 
--->
+
  <Cutprice :goods='goods'  v-if="haveid" v-ref:cut ></Cutprice>
  <Purchase :goods='goods'  v-else v-ref:pur></Purchase>
 

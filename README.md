@@ -8,6 +8,7 @@ after the user share this link,his friend can  help him to cut down price
 
 the demo don't show any operation related to backstage database,because its different to circumstance 
 
+notice that afteryou run npm install,you should change ./node_modules/zepto/package.json,add`"main":"./zepto.min.js",or webpack can't find zepto 
 
 > cutprice
 
